@@ -1,0 +1,4 @@
+Nano pinout
+
+SDA should be on Pin A4
+SCL should be on Pin A5
